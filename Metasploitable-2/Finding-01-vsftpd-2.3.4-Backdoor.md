@@ -86,7 +86,7 @@ Nmap identified:
 
 ### Evidence 2 — Exploit Identification
 Searchsploit identified the known vsftpd 2.3.4 backdoor.
-<img width="1366" height="768" alt="{2627B0DB-B93E-4192-89BB-8473DD71DE44}" src="https://github.com/user-attachments/assets/fe59a9ed-052a-467b-819f-3047d8cfe5cb" />
+<img width="1366" height="116" alt="1621c1b4-6d36-44a0-ba6f-9dbf4940c4c6" src="https://github.com/user-attachments/assets/8c825dad-0762-44fa-b497-89dbbd8d706b" />
 
 
 ### Evidence 3 — Successful Exploitation
