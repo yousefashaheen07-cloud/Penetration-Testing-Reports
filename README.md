@@ -1,3 +1,3 @@
-# Penetration-Testing-Reports
+# ABOUT
 
-A collection of penetration testing reports documenting vulnerability discovery, exploitation, impact assessment, evidence, and remediation across different labs and environments.
+A practical collection of penetration testing reports, lab findings, real-world vulnerabilities, security projects, tools, and course notes.
