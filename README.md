@@ -1,3 +1,3 @@
 # ABOUT
 
-A practical collection of penetration testing reports, lab findings, real-world vulnerabilities, security projects, tools, and course notes.
+A collection of penetration testing reports, vulnerability findings, security projects, tools, and cybersecurity course notes, covering both lab environments and real-world vulnerabilities..
